@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yassin Mahgoub</h1>
-<h3 align="center">A passionate Software Engineer from</h3>
+<h3 align="center">A passionate Senior Software Engineering Student from Egypt</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahgob601" alt="mahgob601" /></a> </p>
 
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Embedded Systems, AUTOSAR, Python, Mobile App Development**
 
-- 📄 Know about my experiences [here](here)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1AAWK9glnj-e1VSikzHo0JjQ8jSCjsUtb/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
