@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **AUTOSAR Embedded Project**
 
-- 🌱 I’m currently learning **Automotive Embedded Systems**
-
 - 💬 Ask me about **Embedded Systems, AUTOSAR, Python, Mobile App Development**
 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1AAWK9glnj-e1VSikzHo0JjQ8jSCjsUtb/view?usp=sharing)
