@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yassin Mahgoub</h1>
-<h3 align="center">A passionate Senior Software Engineering Student from Egypt</h3>
+<h3 align="center">A passionate Software Engineer from Egypt</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahgob601" alt="mahgob601" /></a> </p>
 
