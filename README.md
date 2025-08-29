@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Yassin Mahgoub</h1>
-<h3 align="center">A passionate Software Engineer from Egypt</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahgob601" alt="mahgob601" /></a> </p>
 
-- 🔭 I’m currently working on **AUTOSAR Embedded Project**
 
-- 💬 Ask me about **Embedded Systems, AUTOSAR, Python, Mobile App Development**
+- 🔭 I’m currently working as a **Devops Engineer** in a **BMW partner** company.
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1AAWK9glnj-e1VSikzHo0JjQ8jSCjsUtb/view?usp=sharing)
+- 💬 Ask me about **Devops, automation and Scripting**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
